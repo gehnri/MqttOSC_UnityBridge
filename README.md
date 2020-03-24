@@ -37,7 +37,7 @@ Set the port of the OSCServer Your Unity Project needs to connect to.
 --brokerAdress  
 Set the Ip of the Mqtt broker 
  
-python main --ip "127.0.0.1" --port 5001 --brokerAdress "127.0.0.2"
+python main.py --ip "127.0.0.1" --port 5001 --brokerAdress "127.0.0.2"
  
  
 Needed packages:
